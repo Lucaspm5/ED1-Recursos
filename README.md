@@ -18,5 +18,3 @@
 | 📁 `Listas_2025_1`   | 📝 Atividades e exercícios para alunos da turma 2025.1 |
 | 📁 `Implementacoes`  | 🖥️ Algoritmos clássicos e estruturas de dados |
 | 📁 `Treinos`         | 🏋️ Práticas para revisar conceitos            |
-
-💡 Contribuições são bem-vindas!  
