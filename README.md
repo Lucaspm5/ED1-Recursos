@@ -1,2 +1,15 @@
-# ED1-Recursos
-Criei este repositório para revisar conteúdos e ajudar alunos tanto da minha monitoria quanto qualquer um que esteja estudando o assunto.
+# ED1-Recursos  
+
+📌 Repositório para revisão de **Estruturas de Dados I**, com materiais de apoio e implementações.  
+
+## 📌 Conteúdos  
+- Ponteiros
+- Alocação dinâmica  
+- Recursividade  
+- Tipos Abstratos de Dados (TADs)  
+- Listas lineares (estáticas e dinâmicas)  
+- Métodos de busca  
+- Algoritmos de ordenação  
+- Introdução a árvores  
+
+💡 Contribuições são bem-vindas!  
