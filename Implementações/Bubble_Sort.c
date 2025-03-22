@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdbool.h>
 
+#define FOR(arr, n) \
+    for (int *beginPtr = arr, *endPtr = arr + n;beginPtr != endPtr;++beginPtr)
+
 void bubbleSort(int *arr, int);
 
 int main() {
@@ -9,7 +12,7 @@ int main() {
 
     bubbleSort(arr, n);
 
-    for (int *beginPtr = arr, *endPtr = arr + n;beginPtr != endPtr;++beginPtr) printf("%d\n", *beginPtr);
+    FOR(arr, n) printf("%d\n", *beginPtr);
 
     return 0;
 }
