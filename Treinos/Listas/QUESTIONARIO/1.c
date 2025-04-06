@@ -27,10 +27,10 @@ char *readLine() {
             }
             line = temp;
         }
-        line[index++] = (char)c;
+        *(line + index++) = (char)c;
     }
     
-    line[index] = '\0';
+    *(line + index) = '\0';
 
     return line;    
 }
