@@ -11,6 +11,7 @@ int searchInsert(int* nums, int numsSize, int target) {
     }
     return left;
 }
+
 void merge_version_luquinhas(int left, int right, int *x) {
     if (left >= right) return;
     int middle = left + ((right - left) >> 1);
