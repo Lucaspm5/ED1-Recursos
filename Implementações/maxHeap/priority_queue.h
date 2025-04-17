@@ -17,5 +17,6 @@ bool insert(Heap *v, int element);
 bool isEmpty(Heap *v);
 int top(Heap *v);
 int extract_max(Heap *v);
+void freeHeap(Heap *v);
 
 #endif
